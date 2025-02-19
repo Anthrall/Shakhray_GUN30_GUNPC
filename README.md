@@ -7,7 +7,7 @@ ShakhrayA_GUN30
 Группа: GUN30
 
 ### Задания
-- [ ] Логические операции
+- [ ] [Логические операции](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/1_Logic/Logic.cs) - *Ожидает проверки*
 - [ ] Массивы
 - [ ] Циклы
 - [ ] Классы
