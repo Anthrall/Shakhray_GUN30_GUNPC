@@ -7,8 +7,8 @@ ShakhrayA_GUN30
 Группа: GUN30
 
 ### Задания
-- [ ] [Логические операции](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/1_Logic/Logic.cs) - *Ожидает проверки*
-- [ ] Массивы
+- [x] [Логические операции](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/1_Logic/Logic.cs) - *Done*
+- [ ] [Массивы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/2_Massives/Program.cs) - *Ожидает проверки*
 - [ ] Циклы
 - [ ] Классы
 - [ ] Память
