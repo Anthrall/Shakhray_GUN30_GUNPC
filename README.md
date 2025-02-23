@@ -10,7 +10,7 @@ ShakhrayA_GUN30
 - [x] [Логические операции](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/1_Logic/Logic.cs) - *Done*
 - [ ] [Массивы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/2_Massives/Program.cs) - *Ожидает проверки*
 - [ ] [Циклы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/3_Cycles/Program.cs) - *Ожидает проверки*
-- [ ] Классы
+- [ ] [Классы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/4_Classes/Unit.cs) - *Ожидает проверки*
 - [ ] Память
 - [ ] Коллекции
 - [ ] Строки и символы
