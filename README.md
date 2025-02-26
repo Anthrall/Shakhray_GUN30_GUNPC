@@ -12,7 +12,7 @@ ShakhrayA_GUN30
 - [x] [Циклы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/3_Cycles/Program.cs) 
 - [x] [Классы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/4_Classes/Unit.cs) 
 - [ ] [Память](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/4_Classes/Unit.cs) - *Ожидает проверки*
-- [ ] Коллекции
+- [ ] [Коллекции](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/6_Collections/Program.cs) - *Ожидает проверки*
 - [ ] Строки и символы
 - [ ] ООП
 
