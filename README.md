@@ -17,7 +17,7 @@ ShakhrayA_GUN30
 
 
 ## ИТОГОВОЕ ЗАДАНИЕ
-- [ ] ИТОГОВОЕ
+- [ ] [ИТОГОВОЕ](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/tree/main/FinalTask)
 
 [<- Назад](https://github.com/Anthrall/ShakhrayA_GUN30/tree/main)
 
