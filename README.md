@@ -11,10 +11,10 @@ ShakhrayA_GUN30
 - [x] [Массивы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/2_Massives/Program.cs) 
 - [x] [Циклы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/3_Cycles/Program.cs) 
 - [x] [Классы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/4_Classes/Unit.cs) 
-- [ ] [Память](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/4_Classes/Unit.cs) - *Ожидает проверки*
-- [ ] [Коллекции](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/6_Collections/Program.cs) - *Ожидает проверки*
-- [ ] Строки и символы
-- [ ] ООП
+- [x] [Память](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/4_Classes/Unit.cs) 
+- [x] [Коллекции](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/6_Collections/Program.cs)
+- [ ] [Строки и символы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/7_String/Program.cs)
+
 
 ## ИТОГОВОЕ ЗАДАНИЕ
 - [ ] ИТОГОВОЕ
