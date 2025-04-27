@@ -13,11 +13,11 @@ ShakhrayA_GUN30
 - [x] [Классы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/4_Classes/Unit.cs) 
 - [x] [Память](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/4_Classes/Unit.cs) 
 - [x] [Коллекции](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/6_Collections/Program.cs)
-- [ ] [Строки и символы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/7_String/Program.cs)
+- [x] [Строки и символы](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/blob/main/7_String/Program.cs)
 
 
 ## ИТОГОВОЕ ЗАДАНИЕ
-- [ ] [ИТОГОВОЕ](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/tree/main/FinalTask)
+- [x] [ИТОГОВОЕ](https://github.com/Anthrall/Shakhray_GUN30_GUNPC/tree/main/FinalTask)
 
 [<- Назад](https://github.com/Anthrall/ShakhrayA_GUN30/tree/main)
 
